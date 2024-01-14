@@ -33,6 +33,7 @@ body{
     border: none;
     font-size: 15px;
     padding: 28px 17px;
+    margin-top: 5px;
     margin-left: 10px;
     margin-right: 10px;
     transition: background-color 0.4s, color 0.4s, padding 0.5s;
