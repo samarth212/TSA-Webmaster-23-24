@@ -62,3 +62,7 @@ img{
     flex-direction: row;
     margin-left: 190px;
 }
+
+.city-header{
+    display: flex;
+}
